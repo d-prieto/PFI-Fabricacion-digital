@@ -21,20 +21,20 @@ Buenos días, este repositorio es el que usaré para centralizar los diversos re
 * [Arnau](https://github.com/aRnAu1012/)
 * [Juan Manuel](https://github.com/Baultek)
 * [Alejandro](https://github.com/Baelyn1/1-Trimestre)
-* Miguel Ángel
+* [Miguel Ángel](https://github.com/miguelamgel1107)
 * David
-* Christian
-* Vitas
-* UmedShahzad
-* Hanzla
-* Andree
-* Stiven
-* Abril
-* Sarai
-* Joan Legua
-* Ainhoa
-* Isma
-* Angel
+* [Christian](https://github.com/Tabrih/)
+* [Vitas](https://github.com/VitasB)
+* [UmedShahzad](https://github.com/umershahzad12)
+* [Hanzla](https://github.com/Hanzla55)
+* [Andree]https://github.com/Samael696/)
+* [Stiven](https://github.com/St1v3n3223/)
+* [Abril](https://github.com/jjksimp/)
+* [Saray](https://github.com/Mikeey666/)
+* [Joan Legua](https://github.com/Draken666)
+* [Ainhoa](https://github.com/Ainhoa0512)
+* [Isma](https://github.com/ismamera/)
+* [Angel](https://github.com/ANGEY33)
 
 
 ### Curso 2020-2021
@@ -51,4 +51,12 @@ Aquí están el resto de repositorios de los alumnos del curso 2020-2021
 * [Victor](https://github.com/XXDARKNIGHTXX/arduino)
 * [Bangwei](https://github.com/chenbangwei/Arduino)
 * [Ramón](https://github.com/ItsMonxxu/Arduino)
+
+## Tareas 15 Septiembre
+
+- Crear reposotorio 1er trimestre y crear repositorio arduino 
+- En el readme de 1er trimestre hacer una presentación en el readme.md 
+    - ¿Quién eres? ¿De dónde vienes? ¿Qué te gusta hacer? ¿Qué te gusta de este curso? ¿Qué quieres aprender?
+- Incluir un archivo llamado mecanografia.md. En este archivo incluir enlaces a la clase del profesor e incluir los progresos diarios. 
+- Inlcuir un archivo llamado arquitectura de ordenadores. En este archivo incluir los apuntes de arquitectura de ordenadores, el pdf externo y los personales. 
 
