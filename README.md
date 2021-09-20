@@ -27,7 +27,7 @@ Buenos días, este repositorio es el que usaré para centralizar los diversos re
 * [Vitas](https://github.com/VitasB)
 * [UmedShahzad](https://github.com/umershahzad12)
 * [Hanzla](https://github.com/Hanzla55)
-* [Andree]https://github.com/Samael696/)
+* [Andree](https://github.com/Samael696/)
 * [Stiven](https://github.com/St1v3n3223/)
 * [Abril](https://github.com/jjksimp/)
 * [Saray](https://github.com/Mikeey666/)
