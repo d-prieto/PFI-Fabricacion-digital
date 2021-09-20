@@ -22,7 +22,7 @@ Buenos días, este repositorio es el que usaré para centralizar los diversos re
 * [Juan Manuel](https://github.com/Baultek)
 * [Alejandro](https://github.com/Baelyn1/1-Trimestre)
 * [Miguel Ángel](https://github.com/miguelamgel1107)
-* David
+* [David](https://github.com/DavidMenCam)
 * [Christian](https://github.com/Tabrih/)
 * [Vitas](https://github.com/VitasB)
 * [UmedShahzad](https://github.com/umershahzad12)
