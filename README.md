@@ -52,11 +52,17 @@ Aquí están el resto de repositorios de los alumnos del curso 2020-2021
 * [Bangwei](https://github.com/chenbangwei/Arduino)
 * [Ramón](https://github.com/ItsMonxxu/Arduino)
 
-## Tareas 15 Septiembre
+## Tareas 15 de septiembre
 
 - Crear reposotorio 1er trimestre y crear repositorio arduino 
 - En el readme de 1er trimestre hacer una presentación en el readme.md 
     - ¿Quién eres? ¿De dónde vienes? ¿Qué te gusta hacer? ¿Qué te gusta de este curso? ¿Qué quieres aprender?
 - Incluir un archivo llamado mecanografia.md. En este archivo incluir enlaces a la clase del profesor e incluir los progresos diarios. 
 - Inlcuir un archivo llamado arquitectura de ordenadores. En este archivo incluir los apuntes de arquitectura de ordenadores, el pdf externo y los personales. 
+
+## Tareas 22 de septiembre
+
+- Incluir la clase de binario. Enlazar usándo marcadores desde un índice en arquitectura de ordenadores.md y desde README.md
+- Incluir la definición de procesador y de memoria RAM
+- Añadir el ejercicio de "construir un ordenador por menos de 1000 €". Incluir el enunciado. El enunciado dice así "Se solicita, con un presupuesto de 1000 € la compra de un ordenador de sobremesa con sus piezas. Se pide el precio de cada una y el precio total, así como los detalles técnicos de las piezas encargadas"
 
