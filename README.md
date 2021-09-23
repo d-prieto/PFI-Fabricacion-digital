@@ -63,6 +63,6 @@ Aquí están el resto de repositorios de los alumnos del curso 2020-2021
 ## Tareas 22 de septiembre
 
 - Incluir la clase de binario. Enlazar usándo marcadores desde un índice en arquitectura de ordenadores.md y desde README.md
-- Incluir la definición de procesador y de memoria RAM
+- Incluir la definición de procesador y de memoria RAM así lo que fue comentado sobre los teclados. 
 - Añadir el ejercicio de "construir un ordenador por menos de 1000 €". Incluir el enunciado. El enunciado dice así "Se solicita, con un presupuesto de 1000 € la compra de un ordenador de sobremesa con sus piezas. Se pide el precio de cada una y el precio total, así como los detalles técnicos de las piezas encargadas"
 
