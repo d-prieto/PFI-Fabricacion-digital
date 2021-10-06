@@ -11,7 +11,10 @@ Buenos días, este repositorio es el que usaré para centralizar los diversos re
 
 * Presentación general del curso https://docs.google.com/presentation/d/1vmBau1vOhBYOavgCc-QL8MVDBXvR5XZ7Fs_FvK017fU/edit?usp=sharing
 * Presentación del curso de Arduino y documentación: https://docs.google.com/presentation/d/1jhVhtS2GHWQiYLOHMPgljkE0tGWDIzyUHgVSrWyMQh4/edit?usp=sharing
-* Páginas de proyectos: https://docs.google.com/presentation/d/1of6-TS1-f_qSxIbFIUKpEw_Nlkyb9vA7z5vIk0pWWF4/edit?usp=sharing
+* Páginas de proyectos: https://docs.google.com/presentation/d/1of6-TS1-f_qSxIbFIUKpEw_Nlkyb9vA7z5vIk0pWWF4/edit?usp=sharing.
+* Arquitectura de ordenadores:
+https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf
+
 
 
 ## Repositorios de alumnos 
