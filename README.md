@@ -34,7 +34,7 @@ https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arqu
 * [Stiven](https://github.com/St1v3n3223/)
 * [Abril](https://github.com/jjksimp/)
 * [Saray](https://github.com/Mikeey666/)
-* [Joan Legua](https://github.com/Draken666)
+* [Joan Leyva](https://github.com/Draken666)
 * [Ainhoa](https://github.com/Ainhoa0512)
 * [Isma](https://github.com/ismamera/)
 * [Angel](https://github.com/ANGEY33)
