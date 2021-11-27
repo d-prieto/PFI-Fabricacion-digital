@@ -1,6 +1,22 @@
 # Documentación 1er trimestre 2021-2022
 
-[ToC]
+- [Documentación 1er trimestre 2021-2022](#documentaci-n-1er-trimestre-2021-2022)
+  * [Criterios generales](#criterios-generales)
+    + [Criterios de evaluación](#criterios-de-evaluaci-n)
+      - [Que la documentación sea personal](#que-la-documentaci-n-sea-personal)
+      - [Suficiente detalle](#suficiente-detalle)
+      - [Enlaces correctamente citados](#enlaces-correctamente-citados)
+      - [Código correctamente documentado](#c-digo-correctamente-documentado)
+  * [Elementos necesarios](#elementos-necesarios)
+    + [Repositorio 1er trimestre](#repositorio-1er-trimestre)
+      - [Inkscape](#inkscape)
+    + [Repositorio de arduino](#repositorio-de-arduino)
+      - [Estructura de ejemplo](#estructura-de-ejemplo)
+    + [Subir nota](#subir-nota)
+  * [Referencias](#referencias)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## Criterios generales
 
@@ -82,7 +98,7 @@ _[Fuente](https://commons.wikimedia.org/wiki/File:International_Morse_Code.svg)_
 Si habéis trabajado con otros compañeros (en especial en arduino) necesito quien ha formado parte del equipo en cada parte. 
 
 
-#### Código  correctamente documentada 
+#### Código correctamente documentado 
 
 Para documentar el código es necesario guardar el archivo del código fuente (el .ino) en el github (se puede guardar en una carpeta) y enlazarse en la parte de la documentación correspondiente. 
 
