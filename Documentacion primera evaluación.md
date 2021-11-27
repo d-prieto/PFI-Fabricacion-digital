@@ -124,8 +124,11 @@ Este repositorio necesita
 #### Inkscape 
 
 En la página de inkscape en concreto necesito 
+
 a) Que se vea cual es la diferencia entre imagen ráster y vectorial 
+
 b) El ejercicio del león de Rosa Bonheur
+
 c) Al menos tres logotipos del curso de inkscape de logo a logo y con un paso a paso. Por ejemplo, Christian detalla bastante bien a partir de [aquí](https://github.com/Tabrih/1er-Trimestre/blob/main/Inkscape.md#operaciones-booleanas-con-formas) cómo hacer las operaciones para hacer el logo de Fagor.
 
 Sube nota el incluir otras cosas del programa, experimentos con sus comentarios y ayudas a otros alumnos. Por ejemplo [aquí Christian tomó nota de cómo ajustar el lienzo](https://github.com/Tabrih/1er-Trimestre/blob/main/Inkscape.md#como-ajustar-el-lienzo-en-inkscape)
