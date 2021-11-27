@@ -69,3 +69,7 @@ Aquí están el resto de repositorios de los alumnos del curso 2020-2021
 - Incluir la definición de procesador y de memoria RAM así lo que fue comentado sobre los teclados. 
 - Añadir el ejercicio de "construir un ordenador por menos de 1000 €". Incluir el enunciado. El enunciado dice así "Se solicita, con un presupuesto de 1000 € la compra de un ordenador de sobremesa con sus piezas. Se pide el precio de cada una y el precio total, así como los detalles técnicos de las piezas encargadas"
 
+## Tareas 1er trimestre
+
+
+
