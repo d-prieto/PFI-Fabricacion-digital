@@ -121,6 +121,20 @@ Este repositorio necesita
 6) Una página de **inkscape** 
 7) Una página con el contenido de **3D** incluyendo el proyecto del día 1 de diciembre (llavero Spotify). 
 
+#### Tareas 15 de septiembre
+
+- Crear reposotorio 1er trimestre y crear repositorio arduino 
+- En el readme de 1er trimestre hacer una presentación en el readme.md 
+    - ¿Quién eres? ¿De dónde vienes? ¿Qué te gusta hacer? ¿Qué te gusta de este curso? ¿Qué quieres aprender?
+- Incluir un archivo llamado mecanografia.md. En este archivo incluir enlaces a la clase del profesor e incluir los progresos diarios. 
+- Inlcuir un archivo llamado arquitectura de ordenadores. En este archivo incluir los apuntes de arquitectura de ordenadores, el pdf externo y los personales. 
+
+#### Tareas 22 de septiembre
+
+- Incluir la clase de binario. Enlazar usándo marcadores desde un índice en arquitectura de ordenadores.md y desde README.md
+- Incluir la definición de procesador y de memoria RAM así lo que fue comentado sobre los teclados. 
+- Añadir el ejercicio de "construir un ordenador por menos de 1000 €". Incluir el enunciado. El enunciado dice así "Se solicita, con un presupuesto de 1000 € la compra de un ordenador de sobremesa con sus piezas. Se pide el precio de cada una y el precio total, así como los detalles técnicos de las piezas encargadas"
+
 #### Inkscape 
 
 En la página de inkscape en concreto necesito 
@@ -167,6 +181,16 @@ Para subir nota podéis usar toda vuestra creatividad personal para hacer que se
 También hacer variaciones sube notas. 
 
 En inkscape también se puede subir nota haciendo más material.
+
+### Imágenes de circuitos eléctricos
+
+Estas imágenes pueden ser de referencia para explicación de circuitos eléctricos: 
+
+![IMG_20211116_102848_634](https://user-images.githubusercontent.com/60569015/143721390-6ec0257b-ab2b-4eda-9944-a2b4d0634014.jpg)
+![IMG_20211116_103337_978](https://user-images.githubusercontent.com/60569015/143721393-65cbb091-2b52-483f-a823-ce9d65b147e7.jpg)
+![IMG_20211116_102050_705](https://user-images.githubusercontent.com/60569015/143721417-cf9c7979-d0d9-4d98-a532-d47801ed4f23.jpg)
+![IMG_20211116_103349_813](https://user-images.githubusercontent.com/60569015/143721386-f9f4fc1c-0fc2-490d-ace4-d3386d4d6125.jpg)
+![IMG_20211116_104938_621](https://user-images.githubusercontent.com/60569015/143721387-27eb1643-4b33-4565-b3cc-5b0bd08b7e0d.jpg)
 
 
 ## Referencias 
