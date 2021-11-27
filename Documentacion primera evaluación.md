@@ -86,6 +86,68 @@ Si habéis trabajado con otros compañeros (en especial en arduino) necesito qui
 
 Para documentar el código es necesario guardar el archivo del código fuente (el .ino) en el github (se puede guardar en una carpeta) y enlazarse en la parte de la documentación correspondiente. 
 
+Si fuera de otro compañere, igualmente hay que citar el origen del código. 
+
+
+## Elementos necesarios 
+
+Una vez aclaradas los criterios, pasemos a los elementos que deben formar parte de una documentación del primer trimestre completa
+
+### Repositorio 1er trimestre
+
+Este repositorio necesita 
+
+1) **Un índice** con una introducción personal y un índice de otros archivos .md y el otro repositorio
+2) Una página de **Arquitectura de ordenadores** con el contenido que vimos al principio de curso. Tiene que incluir el enlace al pdf original de apuntes. 
+3) Una página de **mecanografía**. 
+4) Una página (o incluido en Arquitectura de ordenadores) con la **clase de binario**. 
+5) Una página con la **clase de montaje de ordenadores**, el día que desmontásteis y volvisteis a montar ordenadores. 
+6) Una página de **inkscape** 
+7) Una página con el contenido de **3D** incluyendo el proyecto del día 1 de diciembre (llavero Spotify). 
+
+#### Inkscape 
+
+En la página de inkscape en concreto necesito 
+a) Que se vea cual es la diferencia entre imagen ráster y vectorial 
+b) El ejercicio del león de Rosa Bonheur
+c) Al menos tres logotipos del curso de inkscape de logo a logo y con un paso a paso. Por ejemplo, Christian detalla bastante bien a partir de [aquí](https://github.com/Tabrih/1er-Trimestre/blob/main/Inkscape.md#operaciones-booleanas-con-formas) cómo hacer las operaciones para hacer el logo de Fagor.
+
+Sube nota el incluir otras cosas del programa, experimentos con sus comentarios y ayudas a otros alumnos. Por ejemplo [aquí Christian tomó nota de cómo ajustar el lienzo](https://github.com/Tabrih/1er-Trimestre/blob/main/Inkscape.md#como-ajustar-el-lienzo-en-inkscape)
+
+### Repositorio de arduino
+
+El otro repositorio, el de arduino necesita
+
+1) **Un índice** con una breve introducción personal. En este índice se pueden incluir las mejores imágenes si existen. 
+2) Una página con las **primeras pruebas**. Esto es el día que hubo el error por parte de los ordenadores, hicimos pruebas con circuitos eléctricos e hicimos el **morse** (y sus códigos)
+3) Una página con la **interfaz de la nave espacial** donde probamos por primera vez código con botones y leds que poníamos nosotros. 
+4) Una página con el **medidor de amor** donde intentabamos hacer funcionar el sensor de temperatura. 
+5) Una página con la **lámpara de varios colores** donde hemos hablado de las posibilidades del PWM. 
+6) Una página con la clase de **operadores**  donde hemos hablado de &&, || y ! 
+7) Una página con el **medidor de estado de ánimo** donde probamos un objeto para tratar con un servomotor. Importante incluir las cosas que son diferentes del libro a como hay que montarlo al final. 
+8) Una página con el **theremin óptico** donde hemos empezado a trabajar con el piezo. Esto incluye el código donde hemos hecho la variación con el **kill switch**. Si no lo tenéis [aquí hay uno de Javi, un año del curso 2020-21](https://github.com/reverte04/arduino/blob/main/SNIPPET_KILL_SWITCH.CPP)
+9) Una página con las **variaciones freeStyle** del día 30 de noviembre. 
+
+#### Estructura de ejemplo
+
+Una buena forma de tener cada una de esas páginas es la siguiente:
+* Enunciar qué proyecto es o si es de el libro y qué se supone que hace el programa 
+* Explicar la teoría que da el profesor (yo). O la explicación que suelo hacer del código
+* Explicar qué piezas (qué hardware) hace falta y cómo está conectado
+* Explicar qué dificultades ha habido para hacer el proyecto (los cables estaban al revés, la resistencia era otra, etc)
+* Describir cómo ha quedado al final el proyecto 
+* Incluir el código y, si existe, la foto o video del proyecto 
+
+En varios de los proyectos, para subir la nota, están las variaciones ¿cómo incluimos un botón? etc. Cada una de ellas tendrá su propio archivo * .ino si tiene cambios en la programación, o una foto si tiene cambios sólo en el hardware
+
+
+### Subir nota 
+
+Para subir nota podéis usar toda vuestra creatividad personal para hacer que sea más entretenido. 
+
+También hacer variaciones sube notas. 
+
+En inkscape también se puede subir nota haciendo más material.
 
 
 ## Referencias 
