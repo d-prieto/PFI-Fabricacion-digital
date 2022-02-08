@@ -10,10 +10,49 @@ Buenos días, este repositorio es el que usaré para centralizar los diversos re
 ## Clases
 
 * Presentación general del curso https://docs.google.com/presentation/d/1vmBau1vOhBYOavgCc-QL8MVDBXvR5XZ7Fs_FvK017fU/edit?usp=sharing
+
+### Arquitectura de ordenadores
+
+Las clases sobre arquitectura de ordenadores están hechas sobre este pdf: https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf
+
+### Documentación y Github 
+
+Para seguir este curso utilizamos Github como herramienta de trabajo y markdown como herramienta de **documentación**. Muy importante
+
+### Arduino 
+
+En Arduino seguimos (fundamentalmente) el libro de proyectos de Arduino que se puede consultar en www.arduino.cc
+
+También se puede consultar aquí: 
+https://candy-ho.com/Drivers/librodeproyectosdearduinostarterkit-151212174250.pdf
+
+
 * Presentación del curso de Arduino y documentación: https://docs.google.com/presentation/d/1jhVhtS2GHWQiYLOHMPgljkE0tGWDIzyUHgVSrWyMQh4/edit?usp=sharing
 * Páginas de proyectos: https://docs.google.com/presentation/d/1of6-TS1-f_qSxIbFIUKpEw_Nlkyb9vA7z5vIk0pWWF4/edit?usp=sharing.
-* Arquitectura de ordenadores:
-https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf
+
+Los proyectos que hacemos son los siguientes, y de algunos hay algún material adicional creado. 
+
+* Pequeños ejercicios de prueba (incluyendo el código morse)
+* Interfaz de nave espacial
+* Medidor de amor (Love-o-meter)
+* Lámpara de varios colores
+* Indicador de estado de ánimo
+* Theremin óptico
+* Teclado musical
+* Tocado de melodías (proyecto extra con el piezómetro)
+* Reloj de arena digital
+      
+      De este hay variaciones disponibles [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Variaci%C3%B3n%20Reloj%20Digital.md#variantes-de-contador)
+* Rueda de colores motorizada (con dibujos)
+* Zoótropo
+* Bola de cristal
+* Proyecto extra con pantalla LCD (proyecto extra)
+* Mecanismo de cerrojo
+* Lámpara con sensor táctil
+* Proyectos con sensor de joystick (proyecto extra)
+      
+      De este proyecto existe esta clase preparada [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Clase%20joystick.md) y como extensión existe este proyecto de rádar (más complejo) [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Clase%20joystick.md#m%C3%B3dulo-de-joystick-con-bot%C3%B3n-ky-023-joystick) y esta variación más sencilla [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Clase%20Joystick%202.md#variaciones-de-joystick)
+* Proyecto con el sensor de humedad y temperatura (proyecto extra)
 
 
 
