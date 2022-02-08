@@ -11,6 +11,10 @@ Buenos días, este repositorio es el que usaré para centralizar los diversos re
 
 * Presentación general del curso https://docs.google.com/presentation/d/1vmBau1vOhBYOavgCc-QL8MVDBXvR5XZ7Fs_FvK017fU/edit?usp=sharing
 
+### Mecanografía
+
+La mecanografía es un elemento transversal en el curso dada su utilidad y aquí hay un lugar con una referencia sencilla y unos enlaces: https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/Mecanografia.md#informaci%C3%B3n-sobre-mecanograf%C3%ADa
+
 ### Arquitectura de ordenadores
 
 Las clases sobre arquitectura de ordenadores están hechas sobre este pdf: https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf
@@ -61,6 +65,8 @@ Los proyectos que hacemos son los siguientes, y de algunos hay algún material a
 * Proyecto con el sensor de humedad y temperatura (proyecto extra)
 
 
+### Inkscape y diseño 2D
+
 
 ## Repositorios de alumnos 
 
@@ -103,6 +109,8 @@ Aquí están el resto de repositorios de los alumnos del curso 2020-2021
 ### Otra documentación disponible
 
 Adjunto exámenes de otros años como referencia. Algunos de los exámenes eran tipo test y otros han sido prácticos. 
+
+El github original de 2021 de arduino fue este: https://github.com/d-prieto/arduinoCourse
 
 ## Tareas 1er trimestre
 
