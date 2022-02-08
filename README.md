@@ -76,6 +76,8 @@ Los proyectos que hacemos son los siguientes, y de algunos hay algún material a
   De este proyecto existe esta clase preparada [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Clase%20joystick.md) y como extensión existe este proyecto de rádar (más complejo) [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Clase%20joystick.md#m%C3%B3dulo-de-joystick-con-bot%C3%B3n-ky-023-joystick) y esta variación más sencilla [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Clase%20Joystick%202.md#variaciones-de-joystick)
 * Proyecto con el sensor de humedad y temperatura (proyecto extra)
 
+  Este proyecto se utilizó esta página web: https://www.fantasystudios.es/arduino/pages/Componentes/placas/sensores/sensor_ky-015.html
+
 * De forma extra existen estas dos clases sobre [bits y sistema binario](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Clase%20bits.md#clase-de-bits-y-bytes) y [operadores](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Clase%20operadores.md#clase-de-operadores)
 
 
