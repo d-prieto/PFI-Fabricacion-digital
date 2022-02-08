@@ -46,7 +46,10 @@ Los proyectos que hacemos son los siguientes, y de algunos hay algún material a
 * Rueda de colores motorizada (con dibujos)
 * Zoótropo
 * Bola de cristal
-* Proyecto extra con pantalla LCD (proyecto extra)
+* Proyecto extra con pantalla LCD (proyecto extra).
+
+  Sobre esto hay una clase extra [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Clase%20extra%20lcd.md#variaciones-y-enlaces-con-la-pantalla-lcd)
+  
 * Mecanismo de cerrojo
 * Lámpara con sensor táctil
 * Proyectos con sensor de joystick (proyecto extra)
