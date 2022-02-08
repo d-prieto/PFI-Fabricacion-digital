@@ -11,15 +11,21 @@ Este repositorio recoge el material educativo hecho para el PFI-Castelldefels en
 
 * Presentación general del curso https://docs.google.com/presentation/d/1vmBau1vOhBYOavgCc-QL8MVDBXvR5XZ7Fs_FvK017fU/edit?usp=sharing
 
+
+### Documentación github y markdown
+
+
+* [Guía Documentación 1er trimestre](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Documentacion%20primera%20evaluaci%C3%B3n.md#documentaci%C3%B3n-1er-trimestre-2021-2022)
+
+
+* [Referencia Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Emoticonos](https://emojikeyboard.io/)
+
+
 ### Mecanografía
 
 La mecanografía es un elemento transversal en el curso dada su utilidad y aquí hay un lugar con una referencia sencilla y unos enlaces: https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/Mecanografia.md#informaci%C3%B3n-sobre-mecanograf%C3%ADa
 
-### Google activate
-
-También hemos trabajado con esta serie de enlaces de google activate:
-
-https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/Google%20Activate.md#cursos-google-activate
 
 ### Arquitectura de ordenadores
 
@@ -70,8 +76,44 @@ Los proyectos que hacemos son los siguientes, y de algunos hay algún material a
   De este proyecto existe esta clase preparada [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Clase%20joystick.md) y como extensión existe este proyecto de rádar (más complejo) [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Clase%20joystick.md#m%C3%B3dulo-de-joystick-con-bot%C3%B3n-ky-023-joystick) y esta variación más sencilla [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Clase%20Joystick%202.md#variaciones-de-joystick)
 * Proyecto con el sensor de humedad y temperatura (proyecto extra)
 
+* De forma extra existen estas dos clases sobre [bits y sistema binario](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Clase%20bits.md#clase-de-bits-y-bytes) y [operadores](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Clase%20operadores.md#clase-de-operadores)
 
-### Inkscape y diseño 2D
+
+
+
+### Inkscape 
+
+En inkscape explicamos los conceptos de canales de color, la diferencia entre imagen ráster e imagen vectorial y nos enfrascamos en proyectos de inkscape usando el curso ya realizado de logo a logo: 
+
+
+https://joaclintistgud.wordpress.com/
+
+
+Este es el PDF:
+https://joaclintistgud.files.wordpress.com/2011/04/logo_a_logo_segunda_edicion.pdf
+
+Tutorial sobre inkscape 
+
+https://inkscape.org/es/doc/tutorials/basic/tutorial-basic.html
+
+
+
+### Fresado
+
+Esta es documentación parcial sobre cómo usar MODS para fresar utilizando la SRM 20 https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/Fresado.md
+
+
+### Google activate
+
+También hemos trabajado con esta serie de enlaces de google activate:
+
+https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/Google%20Activate.md#cursos-google-activate
+
+### Proyecto integral
+
+Esta es la documentación realizada sobre los trabajos de proyecto integral 2021 
+
+https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/Proyecto%20Integral%202021.md#proyecto-integral
 
 
 ## Repositorios de alumnos 
@@ -114,11 +156,24 @@ Aquí están el resto de repositorios de los alumnos del curso 2020-2021
 
 ### Otra documentación disponible
 
+Clase de fabacademy de componentes electrónicos y soldado
+
+http://academy.cba.mit.edu/classes/electronics_production/index.html
+
+MakerCase:
+
+https://es.makercase.com/#/
+
+Otros lugares de piezas de corte láser 
+
+https://makerdesignlab.com/tutorials-tips/online-file-generators-for-laser-cutting/#gears
+
 Adjunto exámenes de otros años como referencia. Algunos de los exámenes eran tipo test y otros han sido prácticos. 
 
 El github original de 2021 de arduino fue este: https://github.com/d-prieto/arduinoCourse
 
-## Tareas 1er trimestre
+Sobre inkscape y el proyecto integral este es el github original https://github.com/d-prieto/Inkscape-fresado-y-soldadura#repositorio-tercera-evaluaci%C3%B3n-pfi-ptt-castelldefels
 
-[Guía Documentación 1er trimestre](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Documentacion%20primera%20evaluaci%C3%B3n.md#documentaci%C3%B3n-1er-trimestre-2021-2022)
+* [Plantilla](https://github.com/d-prieto/arduinoCourse/blob/main/plantilla.ino)
+
 
