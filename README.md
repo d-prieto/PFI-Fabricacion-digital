@@ -38,6 +38,9 @@ Los proyectos que hacemos son los siguientes, y de algunos hay algún material a
 * Lámpara de varios colores
 * Indicador de estado de ánimo
 * Theremin óptico
+* Kill switch (botón para apagar el altavoz). 
+
+  En este proyecto extra se explica como integrar un Snippet. El snippet que hay que incluir es este de [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Snippet%20kill%20switch.cpp)
 * Teclado musical
 * Tocado de melodías (proyecto extra con el piezómetro)
 * Reloj de arena digital
@@ -97,7 +100,9 @@ Aquí están el resto de repositorios de los alumnos del curso 2020-2021
 * [Bangwei](https://github.com/chenbangwei/Arduino)
 * [Ramón](https://github.com/ItsMonxxu/Arduino)
 
+### Otra documentación disponible
 
+Adjunto exámenes de otros años como referencia. Algunos de los exámenes eran tipo test y otros han sido prácticos. 
 
 ## Tareas 1er trimestre
 
