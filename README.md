@@ -1,6 +1,6 @@
 # PFI-Fabricacion-digital
 
-Buenos días, este repositorio es el que usaré para centralizar los diversos repositorios y enlaces de github. 
+Este repositorio recoge el material educativo hecho para el PFI-Castelldefels en relación a la fabricación digital. 
 
 ## Índice
 
@@ -14,6 +14,12 @@ Buenos días, este repositorio es el que usaré para centralizar los diversos re
 ### Mecanografía
 
 La mecanografía es un elemento transversal en el curso dada su utilidad y aquí hay un lugar con una referencia sencilla y unos enlaces: https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/Mecanografia.md#informaci%C3%B3n-sobre-mecanograf%C3%ADa
+
+### Google activate
+
+También hemos trabajado con esta serie de enlaces de google activate:
+
+https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/Google%20Activate.md#cursos-google-activate
 
 ### Arquitectura de ordenadores
 
