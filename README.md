@@ -176,4 +176,6 @@ Sobre inkscape y el proyecto integral este es el github original https://github.
 
 * [Plantilla](https://github.com/d-prieto/arduinoCourse/blob/main/plantilla.ino)
 
+* [Proyecto de videojuego speed runner Javi Reverte](https://github.com/reverte04/PROYECTO-VIDEOJUEGO/blob/main/proceso%20de%20proyecto.md)
+
 
