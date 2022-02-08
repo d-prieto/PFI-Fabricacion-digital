@@ -38,7 +38,7 @@ Los proyectos que hacemos son los siguientes, y de algunos hay algún material a
 * Lámpara de varios colores
 * Indicador de estado de ánimo
 * Theremin óptico
-* Kill switch (botón para apagar el altavoz). 
+* Kill switch (proyecto extra con un botón para apagar el altavoz). 
 
   En este proyecto extra se explica como integrar un Snippet. El snippet que hay que incluir es este de [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Snippet%20kill%20switch.cpp)
 * Teclado musical
