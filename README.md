@@ -42,7 +42,7 @@ Los proyectos que hacemos son los siguientes, y de algunos hay algún material a
 * Tocado de melodías (proyecto extra con el piezómetro)
 * Reloj de arena digital
       
-      De este hay variaciones disponibles [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Variaci%C3%B3n%20Reloj%20Digital.md#variantes-de-contador)
+   De este hay variaciones disponibles [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Variaci%C3%B3n%20Reloj%20Digital.md#variantes-de-contador)
 * Rueda de colores motorizada (con dibujos)
 * Zoótropo
 * Bola de cristal
@@ -51,7 +51,7 @@ Los proyectos que hacemos son los siguientes, y de algunos hay algún material a
 * Lámpara con sensor táctil
 * Proyectos con sensor de joystick (proyecto extra)
       
-      De este proyecto existe esta clase preparada [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Clase%20joystick.md) y como extensión existe este proyecto de rádar (más complejo) [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Clase%20joystick.md#m%C3%B3dulo-de-joystick-con-bot%C3%B3n-ky-023-joystick) y esta variación más sencilla [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Clase%20Joystick%202.md#variaciones-de-joystick)
+  De este proyecto existe esta clase preparada [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Clase%20joystick.md) y como extensión existe este proyecto de rádar (más complejo) [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Clase%20joystick.md#m%C3%B3dulo-de-joystick-con-bot%C3%B3n-ky-023-joystick) y esta variación más sencilla [aquí](https://github.com/d-prieto/PFI-Fabricacion-digital/blob/main/Clases/arduino/Clase%20Joystick%202.md#variaciones-de-joystick)
 * Proyecto con el sensor de humedad y temperatura (proyecto extra)
 
 
